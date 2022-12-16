@@ -32,10 +32,8 @@ body {
 }
 
 .nav-link:hover {
-    background: #3A68B8;
+    background: #3e3ab8;
 }
-
-
 
 .container {
     margin: 0 auto;
@@ -110,6 +108,10 @@ body {
     line-height: 27px;
 }
 
+.get-started-button:hover {
+    background: #3e3ab8;
+}
+
 .watch-video-button {
     display: flex;
     align-items: center;
@@ -125,6 +127,10 @@ body {
     font-weight: 600;
     font-size: 20px;
     line-height: 27px;
+}
+
+.watch-video-button:hover {
+    background: #3e3ab8;
 }
 
 .main-page-logos {
@@ -181,6 +187,10 @@ body {
     line-height: 22px;
 
     margin-top: 50px;
+}
+
+.ai-deepl-button:hover {
+    background: #3e3ab8;
 }
 
 .features-grid {
