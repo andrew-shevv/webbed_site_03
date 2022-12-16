@@ -197,6 +197,7 @@ body {
     display: grid;
     grid-template: repeat(3, 389px)/repeat(3, 362px);
     gap: 30px;
+    margin-top: 264px;
 }
 
 .features {
